@@ -1,0 +1,24 @@
+body{
+    background: black;
+    color: white
+}
+header{
+border-bottom: solid 1px rgb(159 27 204 / 80%);
+font-size: 40px;
+color: rgb(159 27 204 / 80%);
+
+}
+
+
+
+section{
+    background: rgb(161 31 102);
+    padding-bottom: 30;
+    padding-top:09;
+    justify-content: center;
+    display:flex;
+}
+
+img {
+height: 200px;
+}
